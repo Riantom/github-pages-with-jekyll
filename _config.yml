@@ -1,13 +1,15 @@
-title: Your awesome title
-author: GitHub User
-email: your-email@domain.com
+title: My "First" Webpage
+theme: minima 
+author: Anonymous
+email: ribtom16@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
-
+ Welcome Earthlings....
+ I see that you've found your way to the "First" webpage or maybe just a page that surely strives to incorporate a little bit of me..
+ I also understand that you've been intrigued to question or just curious to know why this is my "First" Webpage.
+ An answer to that will follow a not-so-short shortstory dating a few years back.
+ To be "enlightened" with that "shortstory", please wait for the upcoming updates.
 # social links
-twitter_username: your-twitter-handle # DO NOT include the @ character, or else the build will fail!
-github_username:  your-github-handle # DO NOT include the @ character, or else the build will fail!
+instagram_username: ribtom
+Github_username:  Riantom # DO NOT include the @ character, or else the build will fail!
 
 show_excerpts: true # set to false to remove excerpts on the homepage
